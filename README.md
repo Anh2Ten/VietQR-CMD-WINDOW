@@ -1,5 +1,5 @@
 # VietQR-CMD-WINDOW
-Tạo VietQR dưới dạng window cli
+Tạo VietQR bằng window cli
 Made By Anh2Ten With Love <3
 Nếu có bất kì vấn đề gì vui lòng liên hệ Email:
 contact@dailythuonghien.com
